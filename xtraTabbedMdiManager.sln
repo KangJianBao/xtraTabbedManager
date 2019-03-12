@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXApplication1", "DXApplication1\DXApplication1.csproj", "{DC893943-C563-4D15-8EA1-750ACA839181}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xtraTabbedMdiManager", "DXApplication1\xtraTabbedMdiManager.csproj", "{DC893943-C563-4D15-8EA1-750ACA839181}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
